@@ -1,3 +1,20 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/J-o-n-a-s/PegarDadosArquivoXML.svg?style=for-the-badge
+[contributors-url]: https://github.com/J-o-n-a-s/PegarDadosArquivoXML/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/J-o-n-a-s/PegarDadosArquivoXML.svg?style=for-the-badge
+[forks-url]: https://github.com/J-o-n-a-s/PegarDadosArquivoXML/network/members
+[stars-shield]: https://img.shields.io/github/stars/J-o-n-a-s/PegarDadosArquivoXML.svg?style=for-the-badge
+[stars-url]: https://github.com/J-o-n-a-s/PegarDadosArquivoXML/stargazers
+[issues-shield]: https://img.shields.io/github/issues/J-o-n-a-s/PegarDadosArquivoXML.svg?style=for-the-badge
+[issues-url]: https://github.com/J-o-n-a-s/PegarDadosArquivoXML/issues
+[license-shield]: https://img.shields.io/github/license/J-o-n-a-s/PegarDadosArquivoXML.svg?style=for-the-badge
+[license-url]: https://github.com/J-o-n-a-s/PegarDadosArquivoXML/blob/master/LICENSE
+
 # Projeto desenvolvido para coletar informações de arquivos XML exportados pelo Yet Another Bacnet Explorer (Yabe)
 
 **SEJA BEM-VINDO A ESTE REPOSITÓRIO!!!**
